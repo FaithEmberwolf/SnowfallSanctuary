@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:SnowfallSanctuary/Assets/Assets/Materials/Wood_Base_01.meta
 guid: 3d60394d7bd87b6408f08715c7912507
+========
+guid: 1f432a68b88d0f6489acfca6a7a28c3f
+>>>>>>>> Level_Design_Pt_2:SnowfallSanctuary/Assets/Wall.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
